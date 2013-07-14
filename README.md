@@ -7,4 +7,6 @@ test de modification de readme
 
 Ajout d'une ligne
 
-Ajout d'une autre ligne
+Ajout d'une autre ligne.
+
+Encore une autre ligne
